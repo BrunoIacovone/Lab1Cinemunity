@@ -1,2 +1,2 @@
-# Lab1MovieWeb
+# Cinemunity
 Laboratorio 1 2024
