@@ -2,7 +2,7 @@
   "name": "lab1movieweb",
   "version": "1.0.0",
   "description": "Laboratorio1",
-  "main": "index.js",
+  "main": "Aplication.java",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
